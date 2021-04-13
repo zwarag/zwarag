@@ -5,4 +5,4 @@
 - 💬 Ask me about javascript!
 - 📫 How to reach me: harrys.kavan@pm.me
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zwarag)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zwarag&hide=contribs&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)

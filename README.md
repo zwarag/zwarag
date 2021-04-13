@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on an Angular UI Framework.
-- 🌱 I’m currently learning maschine learning and data science.
+- 🌱 Learning how machine learning and data science can assist in decision-making.
+- 🎓 Studying CS at FH-Campus Vienna.
 - 💬 Ask me about javascript!
 - 📫 How to reach me: harrys.kavan@pm.me
 

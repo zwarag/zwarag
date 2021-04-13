@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a Angular UI Framework.
+- 🔭 I’m currently working on an Angular UI Framework.
 - 🌱 I’m currently learning maschine learning and data science.
 - 💬 Ask me about javascript!
 - 📫 How to reach me: harrys.kavan@pm.me

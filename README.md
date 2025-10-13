@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on an Angular UI Framework.
 - 🌱 Learning the web accessibility.
-- 🎓 Studied CS at FH-Campus Vienna.
+- 🎓 Studied CS at FH-Campus Vienna, now studying Research and Development at FH St. Pölten.
 - 💬 Ask me about angular!
 - 📫 How to reach me: harrys.kavan@pm.me
 

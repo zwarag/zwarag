@@ -2,13 +2,13 @@ Hi there, I'm Harrys! 👋
 
 I am a Frontend Engineer specializing in the Angular ecosystem.
 
-- 🏗️ Current Work: Architecting and maintaining the largest Angular UI Library in Austria.
+- 🏗️ Current Work: Architecting and maintaining the largest Angular UI Library in Europe.
 
-- 🔬 Current Focus: Deepening my expertise in Web Accessibility (a11y) and WCAG standards.
+- 🔬 Current Focus: Building AI Automation for Frontend Development.
 
 - 🎓 Education:
 
-  - M.Sc. Research and Development @ FH St. Pölten (Current)
+  - M.Sc. Research and Development @ FH St. Pölten
 
   - B.Sc. Computer Science @ FH-Campus Vienna
 
